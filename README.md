@@ -2,6 +2,8 @@
 
 A simple example for a Dockerfile and how to use it.
 
+![Overview](container.png)
+
 # Docker commands
 
 Pull base image:
